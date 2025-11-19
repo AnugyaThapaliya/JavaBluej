@@ -49,8 +49,8 @@ public class operatorr
        
         
        
-       //Ternert operator
-       int age=18;
+       //Ternery operator
+       int age=18; //yeuta matra evaluate garna
        String isValid = (age >=18) ? "He can drive" : "He cannot drive" ;
     }
         
